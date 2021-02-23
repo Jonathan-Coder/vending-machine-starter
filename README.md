@@ -11,7 +11,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/vending-machine-starter
 - [x] Fork this repository to your Github account and pull it down to Glitch.
-- [ ] Add, commit, and push your changes.
+- [x] Add, commit, and push your changes.
 
 ### JavaScript
 - [x] Declare variables to track the user's remaining money and the total number of each snack item that has been puchased.
@@ -22,8 +22,8 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 
 ### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your website link using the link on the session agenda.
+- [x] Push your changes!
+- [x] Save and submit your website link using the link on the session agenda.
 
 ### Project Extensions
 - [x] Display the items you've already purchased
